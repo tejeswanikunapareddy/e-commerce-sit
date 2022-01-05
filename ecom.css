@@ -207,18 +207,7 @@
     font-size:20px;
   }
 
-
-
-
-  
-  
-  .book{
-   
-    /* border: 5px solid rgb(22, 13, 13); */
-    /* background-color: rgb(238, 226, 238); */
-  
-    
-    /* padding-top:(50,50,50,50); */
+.book{
     position:absolute;
     width: 500px;
     padding: 50px;
